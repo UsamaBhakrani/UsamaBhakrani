@@ -18,7 +18,6 @@ Here’s what I work with to bring ideas to life:
   <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
@@ -47,7 +46,7 @@ Here’s what I work with to bring ideas to life:
 ## 🌐 Personal Portfolio
 
 Explore my projects and professional journey in detail on my portfolio website:  
-[**Portfolio of Syed Ahzam Imam**](https://usamabhakrani.netlify.app/)
+[**Portfolio of Muhammed Usama**](https://usamabhakrani.netlify.app/)
 
 ---
 

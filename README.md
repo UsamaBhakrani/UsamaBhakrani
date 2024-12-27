@@ -30,8 +30,8 @@ Here’s what I work with to bring ideas to life:
 ## 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Syed-Ahzam-Imam&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Syed-Ahzam-Imam&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=usamabhakrani&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=usamabhakrani&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -39,7 +39,7 @@ Here’s what I work with to bring ideas to life:
 ## 📊 Language Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Ahzam-Imam&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamabhakrani&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -47,7 +47,7 @@ Here’s what I work with to bring ideas to life:
 ## 🌐 Personal Portfolio
 
 Explore my projects and professional journey in detail on my portfolio website:  
-[**Portfolio of Syed Ahzam Imam**](https://portfolio-ahzam.netlify.app/)
+[**Portfolio of Syed Ahzam Imam**](https://usamabhakrani.netlify.app/)
 
 ---
 

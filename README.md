@@ -22,6 +22,7 @@ Here’s what I work with to bring ideas to life:
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/langchain-000000?style=for-the-badge&logo=langchain&logoColor=#1C3C3C" alt="Flask" />
 </p>
 
 ---
